@@ -108,24 +108,5 @@ http://127.0.0.1:5000/
 * Deploy as a scalable web application
 * Enhance personalization using user history
 
----
 
-## 👩‍💻 Author
 
-**Clarin Riya Mathias**
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
-
-```
-
----
-
-If you want, I can next:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- Or :contentReference[oaicite:2]{index=2} 🚀
-```
