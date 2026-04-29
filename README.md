@@ -31,7 +31,7 @@ Bhavana is an emotion-aware AI chatbot that detects a user’s facial expression
 
 ## 📸 Application Preview
 
-![Facial Emotion Chatbot](./images/dashboard.png)
+![Facial Emotion Chatbot](./images/dashboard.png.jepeg)
 
 > Replace this image with your actual project screenshot (UI or webcam + chatbot output)
 
